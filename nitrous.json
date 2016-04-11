@@ -1,0 +1,6 @@
+{
+  "name": "json-schema-expand",
+  "description": "expanding json schema into simple tree",
+  "template": "nodejs",
+  "ports": [3000]
+}
